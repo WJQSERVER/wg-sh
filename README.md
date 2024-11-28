@@ -1,4 +1,4 @@
-# WireGuard 一键配置脚本
+# WireGuard SH
 
 自用
 
